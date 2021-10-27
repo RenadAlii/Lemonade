@@ -1,0 +1,36 @@
+51 study:
+anonumusy fun study:
+Android study:
+----------------------
+branch:
+pull:
+push:
+fetch:
+commit:
+add:
+------------------------
+
+1-exeption handle example:Done
+2-read from 64 until exeption handle and write the all the code in the chapter:Done
+3-read chapter 7 & 8 & 10:
+------------------
+part 1:Done
+part2:Done
+part3:Done
+List:Done
+Set:Done
+String:
+presantion:----
+numbers:Done
+-------------------------------
+array:
+bouns->neasted loop
+جدول الضرب من واحد لين ثلاثه
+1*5
+1*5 2*5
+1*5 2*5 3*5
+1*5 2*5 3*5 4*5
+1*5 2*5 3*5 4*5 5*5:
+HW:Done
+------------------------------
+يشرح الي بالكابشر والي بالبوك مارك

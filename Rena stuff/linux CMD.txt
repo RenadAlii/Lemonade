@@ -1,0 +1,10 @@
+create new user=>adduser --home /home/failerenad theUserNamerenad
+give the new user "صلاحيات"=>usermod -a -G sudo renad1
+بعدين اروح لليسر الي اعطيته الصلاحيه واقول apt sudo update
+------------
+bin للاوامر الي ماتحتاج صلاحيه عاليه sbin الاوامر الي تحتاج صلاحيه عاليه
+-------------
+pwd => to know my crruent directory
+ls => list where I can go
+cd => to change my directory
+cd.. => to back one directory

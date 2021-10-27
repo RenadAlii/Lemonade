@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="673" height="332" viewBox="0 0 673 332">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #613889;
+        stroke: #613889;
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_2" data-name="Group 2" transform="translate(736 815)">
+    <g id="Ellipse_1" data-name="Ellipse 1" class="cls-1" transform="translate(-736 -815)">
+      <ellipse class="cls-2" cx="210" cy="166" rx="210" ry="166"/>
+      <ellipse class="cls-3" cx="210" cy="166" rx="209.5" ry="165.5"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" class="cls-1" transform="translate(-392 -805)">
+      <ellipse class="cls-2" cx="109.5" cy="161" rx="109.5" ry="161"/>
+      <ellipse class="cls-3" cx="109.5" cy="161" rx="109" ry="160.5"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" class="cls-1" transform="translate(-255 -732)">
+      <ellipse class="cls-2" cx="96" cy="124.5" rx="96" ry="124.5"/>
+      <ellipse class="cls-3" cx="96" cy="124.5" rx="95.5" ry="124"/>
+    </g>
+    <g id="Ellipse_5" data-name="Ellipse 5" class="cls-1" transform="translate(-609 -608)">
+      <ellipse class="cls-2" cx="252" cy="62.5" rx="252" ry="62.5"/>
+      <ellipse class="cls-3" cx="252" cy="62.5" rx="251.5" ry="62"/>
+    </g>
+    <g id="Rectangle_5" data-name="Rectangle 5" class="cls-1" transform="translate(-561 -530)">
+      <rect class="cls-2" width="423" height="47" rx="23.5"/>
+      <rect class="cls-3" x="0.5" y="0.5" width="422" height="46" rx="23"/>
+    </g>
+  </g>
+</svg>
